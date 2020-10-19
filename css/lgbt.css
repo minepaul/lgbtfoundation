@@ -10,7 +10,7 @@
 html {
   background-image: url("../tecza.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 100vw;
 }
 img {
