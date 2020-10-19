@@ -12,6 +12,7 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vw;
+  size: 100vw;
 }
 img {
   height: 100px;
