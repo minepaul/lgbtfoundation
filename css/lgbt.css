@@ -1,0 +1,21 @@
+.links {
+  margin: auto;
+  width: 50%;
+  border: 3px  green;
+  padding: 10px;
+  font-family: 'Lemonada';
+  text-align: center;
+  padding-top: 300px;
+}
+body {
+  background-image: url("../tecza.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
