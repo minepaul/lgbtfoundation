@@ -7,10 +7,11 @@
   text-align: center;
   padding-top: 300px;
 }
-body {
+html {
   background-image: url("../tecza.jpg");
   background-repeat: no-repeat;
   background-size: contain;
+  height: 100vw;
 }
 img {
   height: 100px;
